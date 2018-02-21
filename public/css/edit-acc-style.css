@@ -1,0 +1,82 @@
+body {
+	background-color: #f2f2f2;
+}
+
+.top-content {
+	padding: 15px;
+}
+
+.logo-area {
+	padding: 15px;
+}
+
+.fa-chevron-left, .fa-chevron-right {
+	color: #000000 !important;
+}
+
+.search-area {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.most-searched {
+	padding: 20px;
+}
+
+.featured {
+	padding: 20px;
+}
+
+.body-content {
+	padding: 15px;
+}
+
+.search-page-card {
+	margin-bottom: 10px;
+	color: #001974;
+}
+
+.result-page {
+	background-color: #c5ffbb;
+	padding: 10px;
+}
+
+.login-page {
+	margin-top: 10px;
+}
+
+.edit-account-page {
+	margin-top: 10px;
+}
+
+.books-table {
+	background-color: #ffffff;
+	margin-right: 10px;
+}
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #bac9ff;
+}
+
+.important_text {
+	color: red;
+}
+
+.btn-primary {
+	background-color: #a50000;
+	border-color: #a50000;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #ce0000;
+  border-color: #ce0000;
+}
+
+.dark-link a {
+	color: #ce0000;
+}
+
+.blue-link {
+	color: #001974;
+}
